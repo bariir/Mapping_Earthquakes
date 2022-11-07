@@ -8,7 +8,7 @@ Finally, they want to see the data on a third map.
 
 
 ## Tools and Software: 
-- JavaScript, HTML, CSS, Leaflet, D3, Visual Studio Code 1.68.1, Git Bash to commit changes into GitHub Repository. 
+- JavaScript, HTML, CSS, Mapbox, Leaflet, D3, Visual Studio Code 1.68.1, Git Bash to commit changes into GitHub Repository. 
 
 
 # Results
