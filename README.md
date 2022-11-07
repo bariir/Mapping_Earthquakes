@@ -79,3 +79,7 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
 https://github.com/fraxen/tectonicplates/tree/master/GeoJSON
 
 
+## Links to images:
+Mapping Earthquakes in streets view:![Mapping_Earthquakes_and_Tectonic_Plates_in_darkview.png]( https://github.com/bariir/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/Mapping_Earthquakes_and_Tectonic_Plates_in_darkview.png?raw=true)<br>
+
+
